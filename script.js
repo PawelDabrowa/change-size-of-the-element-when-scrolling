@@ -8,7 +8,7 @@ scrollElement.style.height = size + 'px';
 
 
 changeHstyle = () => {
-    if (size >= window.innerWidth * 1) {
+    if (size >= window.innerWidth / 1) {
         grow = !grow;
     } else if (size <= 0) {
         grow = !grow;
