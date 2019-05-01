@@ -1,0 +1,12 @@
+body {
+    height: 10000vh;
+    background-color: rgb(41, 37, 37);
+}
+
+div {
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: #ddd;
+}
